@@ -24,7 +24,7 @@ https://github.com/Kjhyun-2/Unity-Game-BeatStreat/assets/65886338/3e811a31-b056-
 ![image](https://github.com/Kjhyun-2/Unity-Game-BeatStreat/assets/65886338/a8423cca-55ad-49d8-8727-48055451d373)
 캐릭터 체력은 5목숨으로 장애물에 맞을 때마다 1목숨씩 차감
 지형(다리)에서 떨어지게 되면 바로 사망 처리하여 
-게임을 처음부터 다시 플레이하도록 재시작 처리
+게임을 처음부터 다시 플레이하도록 재시작 처리
 
 ![image](https://github.com/Kjhyun-2/Unity-Game-BeatStreat/assets/65886338/aecc3754-23ce-49a2-9e64-f65caff50d22)
 플레이어가 3D 환경에서 움직일 때 카메라가 일정한 거리를 유지하면서 플레이어를 중심으로 회전하거나, 플레이어가 점프할 때도 일정한 높이를 유지하도록 한다.
