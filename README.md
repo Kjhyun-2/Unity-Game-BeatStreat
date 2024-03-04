@@ -23,7 +23,7 @@ https://github.com/Kjhyun-2/Unity-Game-BeatStreat/assets/65886338/3e811a31-b056-
 
 ![image](https://github.com/Kjhyun-2/Unity-Game-BeatStreat/assets/65886338/a8423cca-55ad-49d8-8727-48055451d373)
 캐릭터 체력은 5목숨으로 장애물에 맞을 때마다 1목숨씩 차감
-지형(다리)에서 떨어지게 되면 바로 사망 처리하여 
+지형(다리)에서 떨어지게 되면 바로 사망 처리하여 
 게임을 처음부터 다시 플레이하도록 재시작 처리
 
 ![image](https://github.com/Kjhyun-2/Unity-Game-BeatStreat/assets/65886338/aecc3754-23ce-49a2-9e64-f65caff50d22)
