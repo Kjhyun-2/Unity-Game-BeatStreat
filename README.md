@@ -1,8 +1,8 @@
-# Unity-Game-BeatStreat
+# 🎶 Unity-Game-BeatStreat
 
 https://github.com/Kjhyun-2/Unity-Game-BeatStreat/assets/65886338/3e811a31-b056-46c7-af68-3fedf51d5925
 
-# 구현한 기능
+# ⚒ 구현한 기능
 게임 시작, 연습 모드, 게임 로고 구현
 메인화면 (메뉴)창 구현 
 각 단계, 난이도 선택창 구현
@@ -13,13 +13,13 @@ https://github.com/Kjhyun-2/Unity-Game-BeatStreat/assets/65886338/3e811a31-b056-
 장애물을 피하지 못했을 경우 체력 소비
 게임 종료(나가기) 버튼 구현
 
-# 계획 대비 변경사항
+# 📝 계획 대비 변경사항
 일시정지 버튼 -> 뒤로가기 버튼으로 변경
 클리어 조건 변경
  -골인지점 도착 -> 3분 동안 장애물 피하면 클리어
 재시작 버튼 구현 x -> 플레이어가 죽으면 자동 재시작으로 변경
 
-# 프로젝트 소개
+# 🔍 프로젝트 소개
 Game Start
 단계별 난이도 선택창으로 변경
  
